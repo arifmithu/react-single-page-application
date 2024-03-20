@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "sender_name": "Jessica Brown",
+      "email_title": "Product Launch Announcement",
+      "email_content": "Hi Team,\n\nI'm thrilled to announce the launch of our new product line. This has been a project we've been working on tirelessly, and I'm excited to see it come to fruition. Attached is the press release for your reference.\n\nBest,\nJessica",
+      "time": "09:30 AM"
+    },
+    {
+      "id": 2,
+      "sender_name": "Daniel Miller",
+      "email_title": "Quarterly Financial Report",
+      "email_content": "Dear Team,\n\nI hope this email finds you well. Attached is the quarterly financial report for our department. Please review the figures and let me know if you have any questions.\n\nRegards,\nDaniel",
+      "time": "10:45 AM"
+    },
+    {
+      "id": 3,
+      "sender_name": "Sophie Wilson",
+      "email_title": "Team Building Event",
+      "email_content": "Hello Everyone,\n\nI'm organizing a team building event next Saturday. It'll be a fun day filled with games and activities. Please RSVP by the end of the week if you're able to attend.\n\nCheers,\nSophie",
+      "time": "12:00 PM"
+    },
+    {
+      "id": 4,
+      "sender_name": "Alex Johnson",
+      "email_title": "Project Kickoff Meeting",
+      "email_content": "Hi Team,\n\nI hope you're all ready for an exciting new project! We'll be having a kickoff meeting tomorrow to discuss the project scope, timelines, and responsibilities. Looking forward to working together!\n\nBest,\nAlex",
+      "time": "01:15 PM"
+    },
+    {
+      "id": 5,
+      "sender_name": "Oliver Taylor",
+      "email_title": "Company Policy Update",
+      "email_content": "Dear Team,\n\nI wanted to inform you of some updates to our company policies. Please review the attached document carefully and let me know if you have any questions or concerns.\n\nThanks,\nOliver",
+      "time": "02:30 PM"
+    },
+    {
+      "id": 6,
+      "sender_name": "Isabella Martinez",
+      "email_title": "Training Session Feedback",
+      "email_content": "Hi Team,\n\nThank you to everyone who attended yesterday's training session. Your feedback is invaluable to us. Please take a moment to fill out the attached feedback form.\n\nRegards,\nIsabella",
+      "time": "03:45 PM"
+    },
+    {
+      "id": 7,
+      "sender_name": "Ethan Davis",
+      "email_title": "Upcoming Holiday Schedule",
+      "email_content": "Hello Team,\n\nI hope you're all looking forward to the upcoming holidays. Attached is the holiday schedule for your reference. Please let me know if you have any questions.\n\nRegards,\nEthan",
+      "time": "05:00 PM"
+    },
+    {
+      "id": 8,
+      "sender_name": "Ava White",
+      "email_title": "Team Appreciation",
+      "email_content": "Dear Team,\n\nI wanted to take a moment to express my appreciation for all your hard work. Your dedication and efforts do not go unnoticed. Thank you for everything you do!\n\nBest,\nAva",
+      "time": "06:15 PM"
+    },
+    {
+      "id": 9,
+      "sender_name": "Mason Lee",
+      "email_title": "Project Update Meeting",
+      "email_content": "Hi Team,\n\nJust a reminder that we have our weekly project update meeting scheduled for tomorrow afternoon. Please come prepared with your updates and any blockers you may have.\n\nRegards,\nMason",
+      "time": "07:30 PM"
+    },
+    {
+      "id": 10,
+      "sender_name": "Charlotte Brown",
+      "email_title": "Employee of the Month",
+      "email_content": "Hi Team,\n\nI'm pleased to announce that our Employee of the Month for March is John Smith! John consistently goes above and beyond in his role and is a true asset to the team. Let's congratulate him on this well-deserved recognition.\n\nBest,\nCharlotte",
+      "time": "08:45 PM"
+    }
+  ]
+  

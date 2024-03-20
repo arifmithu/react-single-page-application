@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "sender_name": "John Doe",
+      "email_title": "Meeting Reminder",
+      "email_content": "Dear Team,\n\nThis is a reminder that our weekly meeting is scheduled for tomorrow at 10:00 AM. Please make sure to prepare your updates and any agenda items you'd like to discuss.\n\nBest regards,\nJohn",
+      "time": "10:00 AM"
+    },
+    {
+      "id": 2,
+      "sender_name": "Alice Smith",
+      "email_title": "Project Update",
+      "email_content": "Hi Team,\n\nI wanted to provide you with an update on the project. We've completed the initial phase ahead of schedule and are now moving on to the next phase. Attached is the updated project timeline for your reference.\n\nRegards,\nAlice",
+      "time": "10:30 AM"
+    },
+    {
+      "id": 3,
+      "sender_name": "Mike Johnson",
+      "email_title": "Team Outing",
+      "email_content": "Hello Everyone,\n\nI hope you're all doing well. I wanted to gauge interest in a team outing next month. Please let me know your availability and any suggestions you have for activities.\n\nBest regards,\nMike",
+      "time": "12:15 PM"
+    },
+    {
+      "id": 4,
+      "sender_name": "Emily Brown",
+      "email_title": "Upcoming Deadline",
+      "email_content": "Dear Team,\n\nJust a friendly reminder that the deadline for submitting your reports is approaching fast. Please ensure everything is finalized and submitted by the end of the week.\n\nThanks,\nEmily",
+      "time": "02:00 PM"
+    },
+    {
+      "id": 5,
+      "sender_name": "David Wilson",
+      "email_title": "Weekly Newsletter",
+      "email_content": "Hi Team,\n\nAttached is this week's newsletter containing updates on recent projects, upcoming events, and employee spotlights. Take a look and let me know if you have any contributions for next week.\n\nBest,\nDavid",
+      "time": "03:45 PM"
+    },
+    {
+      "id": 6,
+      "sender_name": "Sophia Lee",
+      "email_title": "Training Session",
+      "email_content": "Hello Team,\n\nI'm excited to announce that we'll be hosting a training session next week on the new software updates. Please mark your calendars and let me know if you have any specific topics you'd like covered.\n\nRegards,\nSophia",
+      "time": "05:20 PM"
+    },
+    {
+      "id": 7,
+      "sender_name": "Emma Taylor",
+      "email_title": "Holiday Schedule",
+      "email_content": "Dear Team,\n\nI hope this email finds you well. Attached is the holiday schedule for the upcoming quarter. Please review and let me know if you have any questions or concerns.\n\nThanks,\nEmma",
+      "time": "06:50 PM"
+    },
+    {
+      "id": 8,
+      "sender_name": "Michael Clark",
+      "email_title": "New Project Announcement",
+      "email_content": "Hi Everyone,\n\nI'm excited to share that we've secured a new project. Details will follow soon, but I wanted to give you a heads up so we can start planning accordingly.\n\nBest regards,\nMichael",
+      "time": "08:05 PM"
+    },
+    {
+      "id": 9,
+      "sender_name": "Olivia Martinez",
+      "email_title": "Feedback Request",
+      "email_content": "Hi Team,\n\nI hope you're all doing well. I'd appreciate it if you could take a few moments to provide feedback on our recent project. Your input is valuable and will help us improve for future endeavors.\n\nThanks,\nOlivia",
+      "time": "09:30 PM"
+    },
+    {
+      "id": 10,
+      "sender_name": "William Harris",
+      "email_title": "Team Building Activity",
+      "email_content": "Hello Everyone,\n\nI'm organizing a team building activity next weekend. It'll be a great opportunity for us to bond outside of work. Please let me know if you're interested and available to join.\n\nBest,\nWilliam",
+      "time": "11:00 PM"
+    }
+  ]
+  
