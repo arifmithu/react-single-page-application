@@ -9,6 +9,9 @@ import Contacts from "./components/Contacts.jsx";
 import Home from "./components/Home.jsx";
 import Emails from "./components/Emails.jsx";
 import Starred from "./components/Starred.jsx";
+import Snoozed from "./components/Snoozed.jsx";
+import SentEmails from "./components/Sent.jsx";
+import DraftsEmails from "./components/DraftsEmails.jsx";
 
 const router = createBrowserRouter([
   {
@@ -18,6 +21,18 @@ const router = createBrowserRouter([
       {
         path: "/showmessage",
         element: <ShowMessage />,
+      },
+      {
+        path: "/snoozed",
+        element: <Snoozed />,
+      },
+      {
+        path: "/sent",
+        element: <SentEmails />,
+      },
+      {
+        path: "/drafts",
+        element: <DraftsEmails />,
       },
       {
         path: "/starred",

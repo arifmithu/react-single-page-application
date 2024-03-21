@@ -23,15 +23,15 @@ function Navbar() {
       </div>
       <div className="flex gap-5 text-lg items-center mt-2">
         <MdOutlineWatchLater />
-        <Link>Snoozed</Link>
+        <Link to={"/snoozed"}>Snoozed</Link>
       </div>
       <div className="flex gap-5 text-lg items-center mt-2">
         <BiRightArrow />
-        <Link>Sent</Link>
+        <Link to={"/sent"}>Sent</Link>
       </div>
       <div className="flex gap-5 text-lg items-center mt-2">
         <MdOutlineNoteAdd />
-        <Link>Drafts</Link>
+        <Link to={"/drafts"}>Drafts</Link>
       </div>
       <div className="flex gap-5 text-lg items-center mt-2">
         <FaAngleDown />

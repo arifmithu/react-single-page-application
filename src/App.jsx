@@ -9,7 +9,7 @@ function App() {
     <div className="bg-gray-100 pt-5 px-4">
       <Header />
 
-      <div className="flex mt-4">
+      <div className="flex mt-4 h-[80vh]">
         <Navbar />
         <div className="bg-white flex-1 rounded-2xl p-2">
           <Outlet />
